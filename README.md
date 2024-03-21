@@ -1,4 +1,4 @@
-*Project Overview:*
+#Project Overview:#
 
 *Objective:*
 This project focuses on leveraging Python for quantitative analysis of the stock market, employing mathematical and statistical techniques to derive actionable insights from historical stock market data. The primary goal is to provide valuable information for investors and financial analysts, aiding in informed decision-making regarding portfolio management and investment strategies.
