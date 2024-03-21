@@ -40,4 +40,4 @@ This project utilizes Python along with key libraries such as Pandas for data ma
    - Derived actionable insights from the analysis, providing valuable information for investment decision-making and portfolio management strategies.
 
 *Conclusion:*
-This project showcases a robust methodology for quantitative analysis of the stock market using Python, incorporating relevant tools and techniques to derive actionable insights from historical stock market data. The insights generated are valuable for investors, financial analysts, and recruiters alike, demonstrating proficiency in data analysis and visualization skills.# Quantitative-Analysis-of-Stock-Market-using-Python
+This project showcases a robust methodology for quantitative analysis of the stock market using Python, incorporating relevant tools and techniques to derive actionable insights from historical stock market data. The insights generated are valuable for investors, financial analysts, and recruiters alike, demonstrating proficiency in data analysis and visualization skills.
